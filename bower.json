@@ -1,0 +1,21 @@
+{
+  "name": "site pwm",
+  "homepage": "https://github.com/kromezinho/sitepwm",
+  "authors": [
+    "Kromezinho <rodrigovprsul@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
